@@ -1,0 +1,45 @@
+@media (max-width: 1440px) {
+}
+
+@media (max-width: 1200px) {
+    .join {
+        margin: 150px 0 150px 100px
+    }
+
+    .footer-menu {
+        column-gap: 100px;
+        padding: 0 0 0 350px
+    }
+
+    .foot {
+        margin: 70px 0 0 80px
+    }
+}
+
+@media (max-width: 1024px) {
+    .btn {
+        font-size: 13px
+    }
+
+    .btn2 {
+        font-size: 13px
+    }
+
+    .hero img {
+        width: 400px;
+        height: 400px
+    }
+
+    .management img {
+        width: 400px;
+        height: 400px;
+    }
+
+    .customer img {
+        width: 400px;
+        height: 400px;
+    }
+.price-main { width: 270px;
+    height: 400px;}
+.price-main
+}
